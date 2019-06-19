@@ -1,1 +1,1 @@
-repo to compete in TC IoT dev comp 2018 ft tika
+A uncompleted repo to compete in Techno Corner -  IoT Developing Competition 2018 ft Kartika Kharisma
