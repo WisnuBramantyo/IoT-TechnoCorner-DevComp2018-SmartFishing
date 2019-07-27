@@ -1,0 +1,18 @@
+ArduCAM ESP8266 UNO MINI Camera Demo Tutorial
+https://www.youtube.com/watch?v=uJeSclGtM0Q&feature=youtu.be
+
+ArduCAM Mini ESP8266 Web Camera
+http://www.instructables.com/id/ArduCAM-Mini-ESP8266-Web-Camera/
+https://www.youtube.com/watch?v=XqfSz1jZ2JA
+https://www.youtube.com/watch?v=XMik38TNqGk&feature=youtu.be
+
+Camera OV7670 - arduino
+https://github.com/ComputerNerd/ov7670-no-ram-arduino-uno
+http://www.elecfreaks.com/projects/how-to-use-ov7670-camera-module-with-arduino/ 
+https://www.youtube.com/watch?v=8V-XBA2qAKY
+
+
+ArduCAM + Bluetooth Module = Wireless Image System
+http://www.arducam.com/arducam-bluetooth-module-wireless-image-system/
+https://www.youtube.com/watch?v=FlfrkJ08pnQ&feature=youtu.be
+
